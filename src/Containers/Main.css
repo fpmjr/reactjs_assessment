@@ -1,0 +1,28 @@
+.Header {
+  text-align: center;
+}
+  
+.Header-logo {
+  height: 80px;
+}
+  
+.App-header {
+  background-color: #222;
+  height: 140px;
+  padding: 20px;
+  color: white;
+}
+  
+.Header-title {
+  font-size: 2em;
+}
+  
+.Main {
+  width: 40%;
+  padding: 30px;
+	background: #FFFFFF;
+	margin: 50px auto;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+	-moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+	-webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+}

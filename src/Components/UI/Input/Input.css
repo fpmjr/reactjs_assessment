@@ -1,0 +1,30 @@
+.Input {
+	width: 90%;
+    box-sizing: border-box;
+	font-family: 'Open Sans Condensed', arial, sans;
+	
+}
+
+.InputText {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	outline: none;
+	display: block;
+	width: 100%;
+	padding: 7px;
+	border: none;
+	border-bottom: 1px solid #ddd;
+	background: transparent;
+	margin-bottom: 10px;
+	font: 16px Arial, Helvetica, sans-serif;
+	height: 45px;
+    
+}
+
+.InputText:focus {
+    box-shadow: 0 0 5px rgb(67, 188, 209);
+	padding: 10px;
+    border: 1px solid rgb(67, 188, 209);
+    border-radius: 10px;
+}
